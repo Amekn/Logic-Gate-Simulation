@@ -1,0 +1,44 @@
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.pdb
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\bin\Debug\Circuits.exe
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\bin\Debug\Circuits.pdb
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.exe
+C:\Users\dadao\Documents\COMPX102\Assignment 1\Circuits\obj\Debug\Circuits.pdb
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\bin\Debug\Circuits.exe
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\bin\Debug\Circuits.pdb
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.exe
+C:\Users\dadao\Documents\COMPX102\Assignment 1 - Variants 1\Circuits\obj\Debug\Circuits.pdb
